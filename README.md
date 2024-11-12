@@ -1,1 +1,1 @@
-# Esther-Paddy-Pizza-sales-
+# Esther-Paddy-Pizza-sales-This project analyses sales data from a Pizza making company to assess their business performance, customer demand, and financial stability. The aim is to provide a Pizza ingredient supplier, with actionable insights into whether a partnership with the Pizza making company would be a sound business decision.
